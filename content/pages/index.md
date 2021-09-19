@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Accounting & Asset management with the worlds leading
+    subtitle: "Accounting & Asset management now\_ by the worlds best in class bleeding edge technology, A.I. & blockchain"
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
